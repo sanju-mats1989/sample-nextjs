@@ -1,2 +1,2 @@
 # sample-nextjs
-Sample Next Js project
+# Sample Next Js project for learning purpose only
